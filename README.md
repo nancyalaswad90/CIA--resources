@@ -16,4 +16,6 @@
 
 > ## - [part 3 study lecture ](https://www.youtube.com/watch?v=nok4C7z40DU&list=PLaV6uKAVcPkz1V1dKMBJsvJ_r5f1ad9o2)
 
+- [Final   الاسئلة والامتحان والتسجيل وأشياء أخري](https://www.youtube.com/watch?v=msGmLdvKW6w)
+
 - [R
