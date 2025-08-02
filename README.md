@@ -11,7 +11,6 @@
 > ## Arabic
 
 
-
 .
 
 - [Resources pdf](https://drive.google.com/drive/folders/1HtJHXXDElzbE8Ona1LYReoQtFVV--XsI)
