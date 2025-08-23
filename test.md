@@ -13,3 +13,9 @@
 .
 
 >
+
+> ## Part 2
+
+===================
+
+[CIA-P2 _أسئلة هامة جداً 2024.pdf](https://github.com/user-attachments/files/21949442/CIA-P2._.2024.pdf)
