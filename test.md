@@ -22,5 +22,6 @@
 
 
 
-- **Razan explain + test bank** [Inernal Audit Practicing By Mahmoud.pdf](https://github.com/user-attachments/files/21949447/Inernal.Audit.Practicing.By.Mahmoud.pdf)
+- **Razan explain + test bank** [Inernal Audit Practicing By Mahmoud.pdf](https://github.com/user-attachments/files/21949447/Inernal.Audit.Practicing.By.Mahmoud.pdf) + [1-105.pdf](https://github.com/user-attachments/files/21949452/1-105.pdf)
+
 
